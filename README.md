@@ -5,8 +5,8 @@ The api server is hosted at http://localhost:3000/students
 
 #To setup the mock api server on localhost, open gitbash and follow the commands :
 In the project directory, go to folder named 'server'
-npm install json-server
-json-server --watch db.json
+Run 'npm install json-server'
+Then Run 'json-server --watch db.json'
 
 
 
