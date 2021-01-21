@@ -5,8 +5,8 @@ import { Student } from '../models/student';
 
 @Injectable()
 export class DataService {
-  //private readonly API_URL = 'http://localhost:3000/students';
-  private readonly API_URL = 'db.json';
+  private readonly API_URL = 'http://localhost:3000/students';
+  //private readonly API_URL = 'db.json';
 
 
   dataChange: BehaviorSubject<Student[]> = new BehaviorSubject<Student[]>([]);
