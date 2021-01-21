@@ -1,0 +1,109 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Sachin Jha",
+      "state": "Maharashtra",
+      "email": "sachinjha@gmail.com",
+      "mobile_number": "8149221004",
+      "gender": "Male"
+    },
+    {
+      "id": "2",
+      "name": "Marcus",
+      "state": "Louisania",
+      "email": "Marcus@gmail.com",
+      "mobile_number": "1234567890",
+      "gender": "Male"
+    },
+    {
+      "id": "67",
+      "name": "Shubham Mishra",
+      "state": "Maharashtra",
+      "email": "shubham@gmail.com",
+      "mobile_number": "8698880717",
+      "gender": "Male"
+    },
+    {
+      "Student": {},
+      "id": "9",
+      "name": "Martial",
+      "state": "Manchester",
+      "email": "martial@manutd.com",
+      "mobile_number": "1234567890",
+      "gender": "Male"
+    },
+    {
+      "Student": {},
+      "id": "18",
+      "name": "Bruno Fernandes",
+      "state": "Portugal",
+      "email": "bruno@manutd.com",
+      "mobile_number": "0987654321",
+      "gender": "Male"
+    },
+    {
+      "Student": {},
+      "id": "17",
+      "name": "K D Bruyne",
+      "state": "Belgium",
+      "email": "kdb@manc.com",
+      "mobile_number": "5672381954",
+      "gender": "Male"
+    },
+    {
+      "Student": {},
+      "id": "6",
+      "name": "Pogba",
+      "state": "Paris",
+      "email": "pogba@manutd.com",
+      "mobile_number": "3456787654",
+      "gender": "Male"
+    },
+    {
+      "Student": {},
+      "id": "10",
+      "name": "L Messi",
+      "state": "Rosario",
+      "email": "messi10@fcb.com",
+      "mobile_number": "6673278123",
+      "gender": "Male"
+    },
+    {
+      "Student": {},
+      "id": "39",
+      "name": "Wan Bissaka",
+      "state": "London",
+      "email": "wb@manutd.com",
+      "mobile_number": "346528719",
+      "gender": "Male"
+    },
+    {
+      "Student": {},
+      "id": "47",
+      "name": "Phil Foden",
+      "state": "StockportCounty",
+      "email": "pfoden@manc.com",
+      "mobile_number": "2732892439",
+      "gender": "Male"
+    },
+    {
+      "Student": {},
+      "id": "8",
+      "name": "Juan Mata",
+      "state": "Spain",
+      "email": "mata@manutd.com",
+      "mobile_number": "7798887397",
+      "gender": "Male"
+    },
+    {
+      "Student": {},
+      "id": "7",
+      "name": "Edinson Cavani",
+      "state": "Uruguay",
+      "email": "ecavani@manutd.com",
+      "mobile_number": "4562635623",
+      "gender": "Male"
+    }
+  ]
+}
